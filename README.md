@@ -4,9 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=007AFF&center=true&vCenter=true&width=940&lines=iOS+Developer+%7C+Swift+Enthusiast;Building+Beautiful+Apps+%F0%9F%93%B1;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ordinad.github.io-blue?style=for-the-badge&logo=safari&logoColor=white)](https://ordinad.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-OrDinaD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OrDinaD)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-OrDinaD-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ordinad/)
 
 </div>
 
